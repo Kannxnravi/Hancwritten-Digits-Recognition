@@ -20,4 +20,4 @@ This dataset allows you to study, analyze and recognize elements in the images. 
 
 <li>Basic CNN Network
   
-**Accuracy:** 98.38
+**Accuracy:** 90
